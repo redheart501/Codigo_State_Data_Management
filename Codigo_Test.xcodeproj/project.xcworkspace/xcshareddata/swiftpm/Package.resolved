@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "c569bec4d04da84030d94f376437bc4efda3686b",
+        "version" : "13.23.1"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f485d2a3bbfaf92186c52ff6d7fa32c924338cf2"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "9dcaa4b333db437b0fbfaf453fad29069044a8b4",
+        "version" : "6.6.0"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON",
+      "state" : {
+        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+        "version" : "5.0.1"
+      }
+    },
+    {
+      "identity" : "wstagsfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/whitesmith/WSTagsField",
+      "state" : {
+        "revision" : "4a3f36d1903554bb6b65df0e7936df9bb95d7525",
+        "version" : "5.4.0"
+      }
+    }
+  ],
+  "version" : 2
+}
